@@ -49,6 +49,8 @@ sur l'interface on a la liste de tout les futur trade non encore effectué que l
    ```
 
    Ouvrir une page web a l'adress : `http://localhost:3000`  ou localhost est soit votre ip soit votre nom de domaine pour ouvrir l'interface.
+   une fois que l'on a mis la pair que l'on veut trader quelque sec plus tard le prix apparait a coté de Current Price si on clique sur le prix le prix se met directement dans target price
+   
 
 ## installation du démarage automatique et du monitoring
 
