@@ -78,7 +78,7 @@ app.get('/', (req, res) => {
                     ${timeframes.map(timeframe => `<option value="${timeframe}">${timeframe}</option>`).join('')}
                     </select><br>
 
-                    <label for="price">Price:</label>
+                    <label for="price">Target Price:</label>
                     <input type="text" id="price" name="price"><br>
                 </div>
                 <div>
